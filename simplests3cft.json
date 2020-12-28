@@ -19,9 +19,7 @@
             "Value": {
                 "Ref": "S3Bucket"
             },
-            "Description": {
-                "Name of sample Amazon S3 Bucket"
-            }
+            "Description": "Name of sample Amazon S3 Bucket"
         }
     }
 }
